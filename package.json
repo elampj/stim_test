@@ -1,0 +1,13 @@
+{
+  "name": "sr2",
+  "private": true,
+  "dependencies": {
+    "@rails/actioncable": "^6.0.3-2",
+    "@rails/webpacker": "5.1.1",
+    "stimulus": "^1.1.1",
+    "stimulus_reflex": "^3.3.0-pre2"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^3.11.0"
+  }
+}
